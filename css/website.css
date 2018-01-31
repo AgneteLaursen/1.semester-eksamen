@@ -1,0 +1,153 @@
+@font-face {
+  font-family: handwritingfont;
+  src: url(../font/kalamregular.ttf);
+}
+
+body {
+  background-color: white;
+  margin: auto;
+  font-size: 22px;
+  font-family: handwritingfont;
+}
+
+.container {
+margin: 0 auto;
+margin-left: 15%;
+margin-right: 15%;
+}
+
+.header {
+  background: #313131;
+  width: 100%;
+  top: 0;
+  position: fixed;
+  background: black;
+  opacity: .7;
+}
+
+.logo {
+  float: left;
+  font-size: 15px;
+}
+
+.logo a {
+  margin-left: 0;
+}
+
+
+a {
+  text-decoration: none;
+  color: white;
+  margin-left: 20px;
+}
+
+.nav li {
+  list-style: none;
+  margin-left: 45px;
+  float: left;
+  padding-top: 2%;
+}
+
+.nav {
+  float: right;
+}
+
+.banner {
+  width: 100%;
+  height: 460px;
+}
+
+
+
+.anime {
+  margin-left: 15%;
+  float: left;
+}
+
+.indextekst {
+  margin-right: 15%;
+  margin-left: 37%;
+  margin-top: 2%;
+}
+
+.designsunderoverskrift {
+  text-align: center;
+}
+
+.designstekst {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.designbilleder {
+  width: 22.6%;
+  height: 22.6%;
+}
+
+.billedertilv {
+
+  float: left;
+  margin-left: 15%;
+}
+
+.billederim {
+  margin-left: 1%;
+  float: left;
+  margin-bottom: 1%;
+}
+
+.billedertilh {
+  float: left;
+  margin-right: 15%;
+  margin-left: 1%;
+  margin-bottom: 1%;
+}
+
+
+.overskrifter {
+  text-align: center;
+}
+
+
+#photogrid {
+  width: 30%;
+  height: 30%;
+  margin-left: 15%;
+  margin-top: 2%;
+  float: left;
+}
+
+.tekstvedsidenafgrid {
+  margin-right: 15%;
+  line-height: 1.8;
+  margin-left: 46%;
+  margin-top: 2%;
+}
+
+#tekstundergrid {
+  margin-top: 5%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.animationertekst {
+  margin-left: 15%;
+  margin-right: 15%;
+  line-height: 1.5;
+  margin-top: 0;
+}
+
+.animationsbilleder {
+  width: 21.5%;
+  height: 21.5%
+}
+
+.personligtarbejdebilleder {
+  margin-top: 2%;
+}
+
+
+.kontaktoplysninger {
+  margin-left: 15%;
+  margin-right: 15%;
+}
